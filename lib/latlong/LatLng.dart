@@ -23,7 +23,7 @@
 ///
 ///     final Location location = new Location(10.000002,12.00001);
 ///
-class Custom_LatLng {
+class LatLng {
     // final Logger _logger = new Logger('latlong.LatLng');
 
     double _latitude;
