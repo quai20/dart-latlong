@@ -17,7 +17,7 @@
  * limitations under the License.
  */
      
-//part of latlong;
+part of latlong;
 
 /// Coordinates in Degrees
 ///
